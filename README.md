@@ -1,9 +1,9 @@
-# Meetless
+﻿# Meetless
 
 > **Scores every recurring meeting by decisions made per hour and suggests which ones to end.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://mokhless2.github.io/meetless/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://domdom007.github.io/meetless/)
 [![Zero Server](https://img.shields.io/badge/Data%20Privacy-100%25%20Local-blue)](#privacy--architecture)
 
 **Meetless** is an open-source, client-side web utility designed specifically for **Team leads at 50+ person companies**. It solves a focused problem with zero friction: no login, no database, no recurring fees, and no data tracking.
@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Live Demo
-**Try it online now:** [https://mokhless2.github.io/meetless/](https://mokhless2.github.io/meetless/)
+**Try it online now:** [https://domdom007.github.io/meetless/](https://domdom007.github.io/meetless/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mokhless2/meetless.git
+git clone https://github.com/domdom007/meetless.git
 cd meetless
 
 # 2. Install dependencies
@@ -80,4 +80,4 @@ Contributions, bug reports, and suggestions are welcome!
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
 
-Developed by [Mokhles Ben Moallem](https://github.com/mokhless2) • [Meta Creative Tunisia](https://metatunisie.com)
+Developed by [Mokhles Ben Moallem](https://github.com/domdom007) • [Meta Creative Tunisia](https://metatunisie.com)
